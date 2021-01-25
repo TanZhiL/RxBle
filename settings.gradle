@@ -1,0 +1,3 @@
+include ':rxble'
+include ':app'
+rootProject.name = "RxBle"
